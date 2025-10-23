@@ -20,24 +20,26 @@ This project combines:
 
 ## 🧱 Project Structure
 
-/CoffeCo
+```
+📦 CoffeCo
 ├── README.md
-├── /Chapters
-│ ├── /Chapter1-MomAndPop
+├── 📁 Chapters
+│ ├── 📁 Chapter1-MomAndPop
 │ │ ├── Summary.md
 │ │ ├── Scenario.md
 │ │ ├── Objectives.md
 │ │ ├── BuildNotes.md
 │ │ └── Diagram.png
 │ └── (future chapters...)
-├── /Documentation
+├── 📁 Documentation
 │ ├── Lab-Network-Map.md
 │ ├── Server-Inventory.md
 │ └── Credentials-Template.md
-├── /Scripts
+├── 📁 Scripts
 │ ├── powershell/
 │ └── bash/
-└── /Diagrams
+└── 📁 Diagrams
+```
 
 ---
 
