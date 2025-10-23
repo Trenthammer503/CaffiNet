@@ -38,7 +38,7 @@ This project combines:
 ├── 📁 Scripts
 │ ├── powershell/
 │ └── bash/
-└── 📁 Diagrams
+└── 📁 Assets
 ```
 
 ---
