@@ -1,4 +1,4 @@
-# ☕ CoffeeCo — Chapter 1 Summary  
+# ☕ CaffiNet — Chapter 1 Summary  
 ### “The Mom & Pop Infrastructure”
 
 **Start date:** [YYYY-MM-DD]  
@@ -41,7 +41,7 @@ _Brief overview of the completed infrastructure build (AD, DNS, File Server, etc
 - Estimated OpEx: ~$250/year  
 - Actual cost to me (lab use): ~$0 hardware additional + evaluation licenses = $0  
 - Reflection: Using evaluation licenses and refurbished hardware drastically reduces actual cost while maintaining realistic business cost modelling — a great win.  
-- Going forward: When CoffeeCo expands into hybrid cloud (Chapter 4), I expect hardware CapEx to drop and OpEx (cloud spend) to increase — giving me a chance to compare real-world “on-prem vs cloud” cost trade-offs.
+- Going forward: When CaffiNet expands into hybrid cloud (Chapter 4), I expect hardware CapEx to drop and OpEx (cloud spend) to increase — giving me a chance to compare real-world “on-prem vs cloud” cost trade-offs.
 
 ---
 
@@ -52,5 +52,5 @@ _Brief overview of the completed infrastructure build (AD, DNS, File Server, etc
 
 ---
 
-*“If it ain’t broke… it’s probably just unplugged.” — Becky Brewster, CEO, CoffeeCo*
+*“If it ain’t broke… it’s probably just unplugged.” — Becky Brewster, CEO, CaffiNet*
 
