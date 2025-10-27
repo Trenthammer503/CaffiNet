@@ -1,4 +1,4 @@
-# ☕ CoffeeCo Organizational Chart (Post-Chapter 1)
+# ☕ CaffiNet Organizational Chart (Post-Chapter 1)
 
 **Revision Date:** End of Chapter 1 — “The Mom & Pop Infrastructure”
 
@@ -19,7 +19,7 @@
 
 | Name | Title | Responsibilities |
 |------|--------|------------------|
-| **Chris [You]** | Systems Administrator (contract → permanent) | Designs, implements, and maintains CoffeeCo’s IT infrastructure. Manages servers, networking, backups, and caffeine flow. |
+| **Chris [You]** | Systems Administrator (contract → permanent) | Designs, implements, and maintains CaffiNet’s IT infrastructure. Manages servers, networking, backups, and caffeine flow. |
 | **Vacant (future hire)** | Helpdesk Technician | Will eventually handle password resets, printer tantrums, and existential dread. |
 | **Consultants (temporary)** | Various | Assist with Azure integration and security reviews in later chapters. |
 
