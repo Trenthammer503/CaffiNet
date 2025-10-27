@@ -1,6 +1,6 @@
-# ☕ CoffeeCo — Chapter 1 Budget Overview
+# ☕ CaffiNet — Chapter 1 Budget Overview
 
-**Scenario:** On-premises infrastructure build for CoffeeCo’s two-location café operation.
+**Scenario:** On-premises infrastructure build for CaffiNet’s two-location café operation.
 
 | Category         | Item                                      | Quantity | Estimated Cost | Notes                             |
 |------------------|-------------------------------------------|----------|----------------|-----------------------------------|
@@ -21,7 +21,7 @@
 ## ✅ Notes & Assumptions:
 - Many licenses will be evaluation versions in the lab (i.e., cost to you = $0), but estimated real-world cost is shown for realism.  
 - Used/refurbished hardware could bring CapEx down further (e.g., server for $400).  
-- Future chapters will track incremental costs as CoffeeCo expands/grows or moves to cloud.  
+- Future chapters will track incremental costs as CaffiNet expands/grows or moves to cloud.  
 - The “Coffee fund” is a bit tongue-in-cheek, but it adds flavor to your portfolio and shows you think like a business.
 
 ---
