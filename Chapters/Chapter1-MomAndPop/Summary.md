@@ -1,7 +1,7 @@
 # ☕ CaffiNet — Chapter 1 Summary  
 ### “The Mom & Pop Infrastructure”
 
-**Start date:** [YYYY-MM-DD]  
+**Start date:** [2025-10-27]  
 **End date:** [YYYY-MM-DD]  
 **Version:** 0.1
 
