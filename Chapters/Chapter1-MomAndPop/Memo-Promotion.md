@@ -1,18 +1,18 @@
-# ☕ CoffeeCo Internal Memo  
+# ☕ CaffiNet Internal Memo  
 ### Subject: IT Infrastructure Completion & Contract Conversion  
 **Date:** [End of Chapter 1 Timeline]
 
 ---
 
 **To:** Chris [Sysadmin / Consultant]  
-**From:** Becky Brewster, CEO, CoffeeCo  
+**From:** Becky Brewster, CEO, CaffiNet  
 **CC:** Todd Brewster, CFO  
 
 ---
 
 **Chris,**
 
-After the recent rollout of the *CoffeeCo Server Thing™*, both shops are now logging in with real accounts, sharing files without emailing each other ZIPs, and haven’t lost a single spreadsheet to “the void” in over two weeks.  
+After the recent rollout of the *CaffiNet Server Thing™*, both shops are now logging in with real accounts, sharing files without emailing each other ZIPs, and haven’t lost a single spreadsheet to “the void” in over two weeks.  
 Todd even said the printer hasn’t “attacked the network” once since your new setup went live.
 
 That’s basically a miracle.
@@ -22,10 +22,10 @@ You’ll oversee all IT operations going forward, including the exciting next st
 
 Your caffeine stipend remains unchanged. (Todd says it’s “above market rate” anyway.)
 
-Welcome officially to CoffeeCo.
+Welcome officially to CaffiNet.
 
 ---
 
 **- Becky Brewster**  
-CEO, CoffeeCo  
+CEO, CaffiNet  
 *“Because uptime tastes better with caffeine.”*
