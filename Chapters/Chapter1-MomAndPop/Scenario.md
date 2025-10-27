@@ -1,8 +1,8 @@
-# ☕ CoffeeCo Chapter 1 — The Mom & Pop Infrastructure
+# ☕ CaffiNet Chapter 1 — The Mom & Pop Infrastructure
 
 ## 📖 The Scenario
 
-CoffeeCo started as a single café run by owners **Becky and Todd Brewster**, who pride themselves on roasting beans and burning through routers with equal passion. After opening a second location, they realized their “network” is a tangled mess of old Linksys routers, USB drives labeled “important stuff,” and a shared Gmail account called coffeeco2020backup@gmail.com.
+CaffiNet started as a single café run by owners **Becky and Todd Brewster**, who pride themselves on roasting beans and burning through routers with equal passion. After opening a second location, they realized their “network” is a tangled mess of old Linksys routers, USB drives labeled “important stuff,” and a shared Gmail account called CaffiNet2020backup@gmail.com.
 
 They’ve hired **you**, their new “IT consultant,” to modernize their setup and prepare them for future growth. For now, they just want:
 - A proper server
@@ -16,7 +16,7 @@ You’ll be working from your home lab, simulating their environment through **P
 
 ## 🎯 Mission Objective
 
-Design and deploy CoffeeCo’s **first proper on-premises infrastructure**:
+Design and deploy CaffiNet’s **first proper on-premises infrastructure**:
 - Domain Controller (Active Directory + DNS + DHCP)
 - File and Print Server
 - Basic VPN access for remote workers
@@ -38,7 +38,7 @@ Design and deploy CoffeeCo’s **first proper on-premises infrastructure**:
 
 | Deliverable | Description |
 |--------------|-------------|
-| Infrastructure Diagram | Diagram of CoffeeCo’s initial environment |
+| Infrastructure Diagram | Diagram of CaffiNet’s initial environment |
 | Server Configs | Notes and screenshots for AD, DNS, DHCP, File Server setup |
 | Backup Strategy | Document outlining how data is backed up and restored |
 | PowerShell Scripts | Any automation you create (user creation, backups, etc.) |
@@ -63,8 +63,8 @@ When this chapter is done:
 - Backups are functional and tested.
 - Documentation is clear enough for someone else to maintain.
 
-Once that’s complete, CoffeeCo will begin expanding — and you’ll move into **Chapter 2: Growing Business.**
+Once that’s complete, CaffiNet will begin expanding — and you’ll move into **Chapter 2: Growing Business.**
 
 ---
 
-*“If it ain’t broke, it’s probably just not plugged in.” — Becky Brewster, CEO, CoffeeCo.*
+*“If it ain’t broke, it’s probably just not plugged in.” — Becky Brewster, CEO, CaffiNet.*
