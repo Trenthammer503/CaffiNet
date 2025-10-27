@@ -1,11 +1,11 @@
-# ☕ CoffeeCo — Chapter 1 Mission Briefing  
+# ☕ CaffiNet — Chapter 1 Mission Briefing  
 ### “The Mom & Pop Infrastructure”
 
 ---
 
 ## 🎬 Scenario Recap
 
-You’ve been contracted by **CoffeeCo**, a two-location café that’s outgrown its “everything runs off Becky’s laptop” IT model.  
+You’ve been contracted by **CaffiNet**, a two-location café that’s outgrown its “everything runs off Becky’s laptop” IT model.  
 The owners, **Becky and Todd Brewster**, need a simple, reliable **on-prem environment** to unify their users, data, and printers.  
 
 Their nephew “knows computers” but recently bricked the router trying to *port-forward the printer*. You’re stepping into the aftermath.
@@ -14,14 +14,14 @@ Their nephew “knows computers” but recently bricked the router trying to *po
 
 ## 🗺️ Project Overview
 
-**Goal:** Build CoffeeCo’s first production-style IT backbone in your **Proxmox lab**, mirroring what a real small business would need.
+**Goal:** Build CaffiNet’s first production-style IT backbone in your **Proxmox lab**, mirroring what a real small business would need.
 
 You’ll:
 
 1. Stand up a **Proxmox host** and create an isolated lab network.  
 2. Deploy a **Windows Server 2022 Domain Controller** (AD + DNS + DHCP).  
 3. Add a **File Server VM** with basic shares and permissions.  
-4. Configure **local DNS, DHCP scopes, static reservations**, and an internal domain (e.g., `coffeeco.local`).  
+4. Configure **local DNS, DHCP scopes, static reservations**, and an internal domain (e.g., `CaffiNet.local`).  
 5. Simulate 3-5 client workstations using lightweight VMs or nested instances.  
 6. Implement a **basic backup** routine (to another Proxmox storage or NAS share).  
 7. Document everything — diagrams, credentials template, and setup notes.
@@ -33,7 +33,7 @@ You’ll:
 | Quest | Objective | Deliverable |
 |:--|:--|:--|
 | ☕ Q1 | **Build the Lab** | Working Proxmox host with virtual switch & storage pool |
-| 🖥️ Q2 | **Deploy DC01** | AD + DNS + DHCP configured; domain = `coffeeco.local` |
+| 🖥️ Q2 | **Deploy DC01** | AD + DNS + DHCP configured; domain = `CaffiNet.local` |
 | 📁 Q3 | **Deploy FS01** | Shared folder structure (`Finance`, `POS`, `Marketing`) with permissions |
 | 🔐 Q4 | **User Provisioning** | PowerShell script to bulk-create users & groups |
 | 🔄 Q5 | **Backup & Recovery** | Nightly snapshot or Veeam-style backup documented |
@@ -56,7 +56,7 @@ Each quest stands alone — complete them in order or bounce around as time allo
 - Mount Windows Server 2022 ISO; install and patch.  
 - Assign static IP → configure DNS.  
 - Rename host to **DC01** and promote to Domain Controller.  
-- Create first domain admin account `COFFEECO\Admin-Chris`.
+- Create first domain admin account `CaffiNet\Admin-Chris`.
 
 ### 3️⃣ Documentation Starts Now
 - Begin `BuildNotes.md` — log every decision, command, and IP.  
@@ -92,6 +92,6 @@ When Chapter 1 closes, you’ll have a **fully functional on-prem SMB environmen
 ## ☕ Owner Message (Flavor Text)
 
 > *“Hey Chris, Todd says the Wi-Fi printer keeps printing empty pages every time someone microwaves soup. We’re thinking maybe that’s related? Anyway, can you get that new ‘server thing’ going soon? The accountant says our invoices are living in three different Google Drives.”*  
-> — **Becky Brewster**, CEO, CoffeeCo (and Chief Microwave Officer)
+> — **Becky Brewster**, CEO, CaffiNet (and Chief Microwave Officer)
 
 ---
