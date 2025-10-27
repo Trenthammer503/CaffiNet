@@ -1,8 +1,8 @@
-# ☕ CoffeeCo Infrastructure Project
+# ☕ CaffiNet Infrastructure Project
 
-Welcome to **CoffeeCo** — a fictional (but realistic) small business that just realized their entire IT “infrastructure” is a single dusty Dell laptop sitting under the owner’s desk next to a Keurig. You’ve been hired to fix that.
+Welcome to **CaffiNet** — a fictional (but realistic) small business that just realized their entire IT “infrastructure” is a single dusty Dell laptop sitting under the owner’s desk next to a Keurig. You’ve been hired to fix that.
 
-This project is a **scenario-driven sysadmin & cloud engineering simulation**, designed to mimic a real career progression from **desktop support → systems admin → cloud engineer**. Every “chapter” represents a stage in CoffeeCo’s growth, each with its own business problems, infrastructure challenges, and technical goals.
+This project is a **scenario-driven sysadmin & cloud engineering simulation**, designed to mimic a real career progression from **desktop support → systems admin → cloud engineer**. Every “chapter” represents a stage in CaffiNet’s growth, each with its own business problems, infrastructure challenges, and technical goals.
 
 ---
 
@@ -69,7 +69,7 @@ By the end of this simulation, you’ll be able to:
 
 ## 🚀 Current Chapter
 **Chapter 1 — “The Mom & Pop Infrastructure”**  
-You’ve been hired by CoffeeCo, a small but growing local café chain. They just opened their second shop and discovered that "emailing themselves spreadsheets" doesn’t count as data management.
+You’ve been hired by CaffiNet, a small but growing local café chain. They just opened their second shop and discovered that "emailing themselves spreadsheets" doesn’t count as data management.
 
 Time to fix that.
 
